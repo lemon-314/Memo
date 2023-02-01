@@ -1,7 +1,5 @@
 from tkinter import *
 
-from matplotlib.pyplot import fill
-
 app = Tk()
 app.title("备忘录")
 
